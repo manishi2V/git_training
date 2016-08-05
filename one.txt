@@ -5,3 +5,6 @@ Change by git_training
 Merge successfullly done by amber repo
 
 Adding some line of text from Amber's repo
+
+Adding the line to merge
+
